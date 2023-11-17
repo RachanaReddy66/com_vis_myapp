@@ -19,6 +19,7 @@ import com.cloudpos.printer.PrinterDevice;
 public class MainActivity extends AppCompatActivity {
     Button send_bt;
     EditText name_bt,surname_bt;
+    Button sample;
 
     Context context;
 
